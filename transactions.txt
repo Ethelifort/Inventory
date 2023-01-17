@@ -1,0 +1,5 @@
+210202212158, 14, "Stanley #2 Philips Screwdriver", 6.95, 2, 0, 13.90, 02/02/21, 09:58:24 PM EST
+210202212158, 23, "Tamiya 2oz paint - ferrari red", 2.39, 5, 10, 10.76, 02/02/21, 09:58:24 PM EST
+210202212200, 3451, "Oakley Jawbreaker sunglasses", 236.00, 2, 0, 472.00, 02/02/21, 10:00:15 PM EST
+210202212205, 198, "Box of 10 Sharpie Roller 0.5mm", 6.50, 5, 10, 29.25, 02/02/21, 10:05:19 PM EST
+210202212205, 2190, "Hefty 30 gal with handles - box 40", 19.00, 6, 10, 102.60, 02/02/21, 10:05:19 PM EST
